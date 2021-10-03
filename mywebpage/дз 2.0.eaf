@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-03T18:31:32+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Notebook/Desktop/ЛинДа/videoplayback (online-video-cutter.com).mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./videoplayback (online-video-cutter.com).mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5ea7defb-33ec-4bd7-925f-91ac944e3501</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">111</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2399"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2927"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7449"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7494"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="21073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21118"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="22522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="23017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="29907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="30017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="39531"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="39623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="47898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="48008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="50715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="50898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="54008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="54127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="62834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="63503"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="69311"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="69559"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="76017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="76348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="78908"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="79008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="83017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="83210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="88036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="88394"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="93916"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="94008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="98788"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="98999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="105513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="105999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="112017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="112320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="122953"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="123183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="128026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="128210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="131274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="131403"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="138385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="138550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="140898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="141118"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="145907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="146100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="148641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="149027"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="155008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="155174"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="165412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="165807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="169330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="169651"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="176292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="176513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="180642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="181091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="183971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="184302"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="186669"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="188100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="196321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="196495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="200128"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="200457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="203824"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="203953"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="206146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="206595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="214641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="214870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="220393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="220614"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="224550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="224623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="234678"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="234742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="245402"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="245724"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="251513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="251669"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="260402"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="260605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="265541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="265696"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="270898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="271219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="278329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="278366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="286807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="286852"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="295715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="295871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="298632"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="298797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="302485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="302623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="310228"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="310394"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="312880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="313228"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="321623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="321732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="325384"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@zsa1966f" TIER_ID="@zsa1966f-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>здравствуйте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>в эфире государственная телерадиокомпания Владивосток / специальный проект Новая экономика приморья //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>и в рамках этого проекта сегодня мы предлагаем вам / интервью / с почетным гражданином города Владивостока / заслуженным работником министерства морского ааа флота / заслуженным работником транспорта Российской Федерации / Михаилом Федоровичем Робкановым //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Михаил Федорович здравствуйте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>обратиться к вам с просьбой об интервью нас заставили события которые сейчас широко обсуждаются в Приморском крае  на Дальнем Востоке //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>совсем недавно президент страны подписал указ о распространении / зоны действия свободного порта Владивосток на другие порты Дальнего Востока / и северо-восточной Арктики //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>вот поэтому хотелось бы узнать ваше мнение / о том / что вот такие шаги значат для развития экономики региона в целом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ну вопрос он такой вот / общий как-то / а мне хотелось бы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>знаете вот вопрос / первый вопрос вам задать вот такой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>а вот / с вашей точки зрения / насколько портовая инфраструктура Приморья / готова выполнять вот те задачи которые сейчас обозначены в указах президента ? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>я правильно вас понимаю что вы сейчас говорите / о развитии северного морского пути и что Владивосток может стать вот именно той отправной тачкой / точкой / где / эээ / формироваться вот эти грузы для //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@rmf1950f" TIER_ID="@rmf1950f-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>эээ / я можно немножко неожиданно начну / попробую историю привязать к сегодняшнему дню //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ведь более ста лет назад / у царя / стоял вопрос / шла / эээ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>строительство линии Транссибирской железной дороги //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>куда должен выйти / окончание этой Транссибы ? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>и было много вариантов рассматривать / какой порт / эээ / построить для Транссибы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>это и Ольгия рассматривалась / это и Пасецкие / это и Зарубинские пункты рассматривались / в общем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>все на побережье / то что сюда на юг Приморского края / никто не обсуждал этот вопрос //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>а потом все-таки выбрали Владивостокский / эээ / морской торговый порт / окончание Транссиба построили в этом месте // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>и почему именно вот с такой / вот с этой / с западной стороны построили пункты Золотой рог а не с восточной ? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>потому что ни один снаряд боевой / снаряд / не мог достать / до причалов торгового порта / потому что ему бы не дали подойти боевым кораблям вражеским //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>наши ворошиловкие а потом / ну / это раньше другие были батареи Морская бухта //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>то есть он бы подошел / и не смог бы достать ни один снаряд //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>посмотрите как / эээ / как глубоко продумывалось / эээ / строительство и защита Владивостокского морского торгового порта //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>это был первый коммерческий порт //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>в тысяча восемьсот девяносто седьмом году / закладка первого камня произошла //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>это я подвожу к тому / шо через много лет //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>и тоже у нас / наш президент страны / Владимир Владимирович Путин / тоже озадачился со своей командой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>ммм / эээ / как же нам развивать дальше Дальний восток / без портового хозяйства не будет ни страны / ни / эээ / улучшения жизни населения / потому что нам же и торговать надо  //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>и в конечном итоге Транссиб сюда подходит / продолжает подходить //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>и / эээ / родилась / идея / эээ / свободного порта / этот порт был #нрзб# Владивосток / был //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>он очень большую пользу в свое время / эээ / в начале века / прошлого века сделал //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>но тут еще один нюанс подошел //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>у нас начали таять льды в Арктике //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>и облегчать / эээ / летнюю навигацию / и уже пер... первые проходы / сквозные проходы / безледокольные произошли / эээ / по Арктике у нас //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>#нрзб# со своим флотом несколько раз уже прошел и так далее // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>похоже / что этот процесс еще будет длиться определенное время //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>и нам явно #нрзб# / эээ // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>наводить порядок в грузовой базе / концентрировать ее в каком-то месте / ее производить возможно / да / самим ормировать эту базу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>собирать контейнеры с / эээ / с России / с Китая / там / Кореи и так далее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>и делать мощнейший порт с большими #нрзб# вместимостью флота //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>#нрзб# / об этом почти никто не говорит / но почему-то мне кажется / что вот / идея свободного порта / она появилась больше как идея / эээ / будущая //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>концентрация грузопотока здесь / для того / шоб отправить грузы в Европу Северным морским путем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>то есть накопить десять тыщ контейнеров одновременно для какого-то там / Роттердама / там или / это надо очень большие территории иметь / хорошие глубины и хороший порт //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>эээ / ммм / вот / эээ / здесь много таких возможностей построить такие порты / много //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>это и Зарубино может претендовать на этот порт / но и не надо забывать сам Владивостокский порт //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>по мощности у нас есть генеральный план развития порта / Владивосток / он должен перегружать минимум десять миллионов контейнеров // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>то есть / сами акватории / территроию / строить причалы / строить терминалы и мы можем перегружать очень большие объемы / эээ / контейнеров //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>тем более сегодня / ммм / строятся мосты дороги / если еще вкат будет сделан / то есть прямой выход за город Владивосток / эээ / порта / вообще //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>колоссальнейшее продвижение вперед грузопотоков //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>поэтому все напрашивается на то / что свободный порт Владивосток //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>не в прямом смысле Владивостокский порт / но / вот / зона вокруг / предприятия которые формируются там / будут формироваться //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>а они уже многие на экспорт ориентированы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>эээ / будут подвозить грузопоток сюда и большими судами / через Северный морской путь / будут доставлять туда / в ту сторону //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>а это дешевле почти в два раза / чем вокруг / эээ / обходить //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@zsa1966f" TIER_ID="@zsa1966f-gestures"/>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@rmf1950f" TIER_ID="@rmf1950f-gestures"/>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="@zsa1966f-gestures" PARTICIPANT="@zsa1966f" TIER_ID="@zsa1966f-gestMeaning"/>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="@rmf1950f-gestures" PARTICIPANT="@rmf1950f" TIER_ID="@rmf1950f-gestMeaning"/>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="@zsa1966f-text"
+        PARTICIPANT="@zsa1966f" TIER_ID="transl@zsa1966f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>hello //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>the state television and radio company Vladivostok / special project New economy of Primorye //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>and within the framework of this project today we offer you / an interview / with ah honorary citizen of the city of Vladivostok / honored worker of the Ministry of the Naval aaa Fleet / honored worker of transport of the Russian Federation / Mikhail Fedorovich Robkanov //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>hello Mikhail Fedorovich //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>to ask you for an interview we were forced by the events that are now widely discussed in the Primorsky Territory in the Far East //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>quite recently the president of the country signed a decree on the extension / coverage of the free port of Vladivostok to other ports of the Far East / and the northeastern Arctic //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>that's why I would like to know your opinion / about / what these steps mean for the development of the regional economy as a whole //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>well the question is he like this / general somehow / but I would like to //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>you know this is the question you should ask is this //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>but / from your point of view / to what extent is the port infrastructure of Primorye / ready to fulfill the tasks that are now outlined in the presidential decrees ? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>I understand you correctly you are talking about / about the development of the northern sea route and that Vladivostok can become exactly that starting point / point / where / uh / these cargoes are formed for //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="verschiedenermist" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="@rmf1950f-text"
+        PARTICIPANT="@rmf1950f" TIER_ID="transl@rmf1950f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>uh / I can start a little uneexpectedly / try to tie the history to the present day //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>after all more than a hundred years ago / the king / had a question / walked / uh //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>construction of the Trans-Siberian railway line //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>where should this Transsib go out / end ? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>and there were many options to consider / what port / uh / to build for the Transsib //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>this and Olga were considered / this and Pasetsky / this and Zarubinsky points were considered / in general // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>everything on the coast / what is here to the south of Primorsky Krai / no one discussed this issue //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>and then they still chose Vladivostok / uh / commercial sea port / the end of the Transsib was built in this place // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>and why exactly from this / this / from the west side were the Golden Horn points built and not from the east ? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>because not a single combat projectile / could reach / to the berths of the commercial port  / because it would not be allowed to approach enemy warships //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>our voroshilovskie and then / well / it used to be other batteries Sea Bay //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>that is he would come up / and would not be able to reach a single projectile //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>look how / uh / how deeply thought over / uh / construction and protection of the Vladivostok sea trade port //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>it was the commercial port //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>in one thousand eight hundred ninety-seven / the laying of the first stone took place //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>I am bringing this to that / sho after many years //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>and we also have / our president of the country / Vladimir Vladimirovich Putin / was also puzzled with his team //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>mmm / uh / how can we develop the Far East further / without a port economy there will be no country / nor / uh / improving the life of the population / because we also need to trade //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>and ultimately the Transsib comes here / continues to come here //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>and / uh / was born / idea / uh / free port / this port was #cnfs# Vladivostok / was //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>he did a great deal in his time / uh / at the beginning of the century / of the last century //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>but then one more nuance came up //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>we started to melt ice in the Arctic //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>and facilitate / uh / summer navigation / and already the fir... the first passages / through passages / icebreaking have occurred / uh / in the Arctic with us //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>#cnfs# with your fleet has already passed several times and so on //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>it looks like / that this process will still take a certain amount of time //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>and we clearly #cnfs# / uh //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>put things in order in the cargo base / concentrate it in some place / make it possible / yes / organize this base ourselves //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>collect containers from / uh / from Russia / from China / there / Korea and so on // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>and make the most powerful port with large #cnfs# fleet capacity //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>#cnfs# / almost no one talks about this / but for some reason it seems to me / that here is / the idea of a free port / it appeared more as an idea / uh / future //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>concentration of freight traffic here / in order / to send goods to Europe by the Northern Sea Route //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>that is accumulate ten thousand containers at the same time for some there / Rotterdam / there or / it is necessary to have very large territories / good depths and a good port //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>uh / mmm / here / uh / there are many such opportunities to build such ports / a lot //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>this and Zarubino can claim this port / but we must not forget the Vladivostok port itself //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>in terms of capacity we have a master plan for the development of the port / Vladivostok / it must handle at least ten million containers // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>that is / the waters themselves / territory / build terminals and we can handle very large volumes of / uh / containers //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>especially today / mmm / road bridges are being built / if another roll-in is made / that is direct acces to the city of Vladivostok / uh / port / in general //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>colossal forward movement of freight traffic //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>so everything begs for / that the free port of Vladivostok //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>not in the literal sense of the Vladivostok port / but / here / the area around / the enterprises that are being formed there / will be formed //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>and many of them are already export-oriented //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>uh / they will deliver cargo here and by large ships / via the Northern Sea Route / they will deliver there / in that direction //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>and it is almost twice cheaper / than around / uh / bypass //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gesture-meaning" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_7217cce5-ebba-4179-bfdc-9a7405c34f79">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c64891fb-8a1a-4803-83df-058785fd6b97">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_40faa65d-e509-4079-b655-72961add5cc1">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cafa1763-d276-408e-839e-67353fa17555">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_40deffdd-cc66-42fe-a554-cb3d65559cbe">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0f2e9f10-5daa-45c4-bf9b-5209dfdbcf9d">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_67526609-c742-4848-abdf-21f5cca600e9">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e8c720b5-7c09-46f7-88a5-0212b666eba9">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_60abacd1-dc74-42d5-bb67-8f0159319457">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3c552e74-2414-43fb-8830-60d798f87b4b">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b1eb4ac8-d99d-4ba5-bca9-8024bcc91579">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0064305e-03ac-44da-8833-c5c9953c1ab4">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8bd59663-44ba-4d43-9f30-857e11c48f1d">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_92c70e0a-2e6e-4f9d-90cd-da7ed2b6ec6c">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3305883c-2cb1-4d38-8e30-6adb9aa70263">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ac895aa4-2b33-448e-8e6c-601bccf5470a">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_94b602aa-cced-4a6a-881b-9463d9584234">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
